@@ -1,7 +1,9 @@
 # Music-Gallery using HTML,CSS only with Responsive.
 # This is a redesigned version of an existing template
 This is my practice make responsive music gallery using pure html and css only,
+
 responsive music gallery with image thumbnail on music,
+
 create a responsive music gallery using html audio tag
 
 - Follow few steps:
